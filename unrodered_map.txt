@@ -1,0 +1,6 @@
+----------Unordered map----------------
+
+Same as map just need to know :
+1. <unordered_map> header file requires
+2. Uses Hash Table so, Time Complexity of functions is O(1), rarely O(n)
+3. Unsorted 
